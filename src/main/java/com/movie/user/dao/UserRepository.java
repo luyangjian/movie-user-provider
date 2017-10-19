@@ -1,0 +1,1 @@
+package com.movie.user.dao;import com.movie.user.entity.User;import org.springframework.data.jpa.repository.JpaRepository;import org.springframework.stereotype.Repository;/** * Created by luyangjian on 2017/10/13. */@Repositorypublic interface UserRepository extends JpaRepository<User, Long> {}

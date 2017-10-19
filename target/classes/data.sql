@@ -1,0 +1,1 @@
+insert into user (id,username,name,age,balance) values(1,'jose1','胖冰1号',23,4800.00);insert into user (id,username,name,age,balance) values(2,'jose2','胖冰2号',27,1200.00);insert into user (id,username,name,age,balance) values(3,'jose3','胖冰3号',29,3233.00);
